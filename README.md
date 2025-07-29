@@ -84,7 +84,7 @@ Note that another way to find esbuild plugins is to search for the [`esbuild-plu
 * [@es-exec/esbuild-plugin-serve](https://github.com/tim117/es-exec/tree/main/plugins/es-serve): A plugin for running your build output in a child process after the project build completes.
 * [@es-exec/esbuild-plugin-start](https://github.com/tim117/es-exec/tree/main/plugins/es-start): A plugin for running a script after your build completes, similar to [nodemon](https://github.com/remy/nodemon).
 * [@espcom/esbuild-plugin-compress](https://github.com/esbuild-plugins-community/esbuild-plugin-compress): A plugin for compressing output files using gzip, brotli, or zstd compression algorithms.
-* [@espcom/esbuild-plugin-inject-preload](https://github.com/esbuild-plugins-community/esbuild-plugin-inject-preload): A plugin designed to inject links into HTML templates (fonts, scripts. css, images etc.).
+* [@espcom/esbuild-plugin-inject-preload](https://github.com/esbuild-plugins-community/esbuild-plugin-inject-preload): A plugin designed to inject links into HTML templates (fonts, scripts, css, images etc.).
 * [@espcom/esbuild-plugin-perf](https://github.com/esbuild-plugins-community/esbuild-plugin-perf): A plugin that monitors and logs the time taken by various plugin hooks (onStart, onLoad, onResolve, onEnd).
 * [@espcom/esbuild-plugin-replace](https://github.com/esbuild-plugins-community/esbuild-plugin-replace): A plugin that allows for customizable string replacement in files during the build process with pre-included modifiers for common use cases.
 * [@espcom/esbuild-plugin-webpack-analyzer](https://github.com/esbuild-plugins-community/esbuild-plugin-webpack-analyzer): Webpack Bundle Analyzer integration for esbuild.
